@@ -1,0 +1,44 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+body{
+  background-color: black;
+  color: white;
+}
+.user {
+  width: 600px;
+  display: flex;
+  margin: 5px;
+  justify-content: space-between;
+}
+.heading{
+  font-size: 50px;
+}
+input{
+  padding: 10px;
+  margin: 5px;
+}
+.addButton{
+  padding: 10px;
+  margin: 5px;
+}
+.buttonEditDelete button{
+  padding: 5px;
+  margin: 5px;
+}
+.saveButton{
+  padding: 10px;
+  margin: 5px;
+}
+table,tr,td{
+  border: 1px solid white;
+  border-collapse: collapse;
+  font-size: 20px;
+  margin: 25px;
+  padding: 25px;
+}
+
+.editInput{
+  width: 250px
+}
